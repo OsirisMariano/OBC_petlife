@@ -1,8 +1,12 @@
 *{
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
 header{
   background-color: #FF9A6C;
+  margin: 10px;
+  border: 10px solid #000000;
+  padding: 10px;
 }
