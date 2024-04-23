@@ -1,12 +1,14 @@
 *{
   box-sizing: border-box;
+  font-family: 'Montserrat',sans-serif;
   margin: 0;
   padding: 0;
 }
 
+body{
+  color: #263138;
+}
+
 header{
   background-color: #FF9A6C;
-  margin: 10px;
-  border: 10px solid #000000;
-  padding: 10px;
 }
