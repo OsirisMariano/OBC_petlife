@@ -11,4 +11,18 @@ body{
 
 header{
   background-color: #FF9A6C;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+header a {
+  color: #FFFFFF;
+  font-weight: 600;
+  padding: 32px;
+  text-decoration: none;
 }
