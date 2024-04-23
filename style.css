@@ -128,3 +128,46 @@ h2{
   margin-top: -8px;
   padding: 24px;
 }
+
+footer{
+  background-color: rgba(255, 152, 108, 0.25);
+  display: flex;
+  justify-content: space-between;
+  gap: 80px;
+  padding: 64px 80px;
+}
+
+footer img,
+footer .titulo{
+  display: block;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+footer nav a{
+  color: #263138;
+  display: block;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+
+footer p{
+  margin-bottom: 16px;
+  max-width: 350px;
+}
+
+footer p a{
+  color: #263138;
+  text-decoration: none;
+}
+
+#copyright{
+  background-color: #263138;
+  text-align: center;
+  padding: 24px;
+  color: #FFFFFF;
+}
+
+#copyright a{
+  color: #FF9A6C;
+}
